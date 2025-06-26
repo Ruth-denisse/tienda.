@@ -1,2 +1,2 @@
-# tienda.
+# tienda
 Tiendita accesorios 
